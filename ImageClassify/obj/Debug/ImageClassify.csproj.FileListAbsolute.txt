@@ -1,0 +1,8 @@
+C:\Documents and Settings\13ru\My Documents\Visual Studio 2008\Projects\ImageClassify\ImageClassify\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\13ru\My Documents\Visual Studio 2008\Projects\ImageClassify\ImageClassify\obj\Debug\ImageClassify.Properties.Resources.resources
+C:\Documents and Settings\13ru\My Documents\Visual Studio 2008\Projects\ImageClassify\ImageClassify\obj\Debug\ImageClassify.csproj.GenerateResource.Cache
+C:\Documents and Settings\13ru\My Documents\Visual Studio 2008\Projects\ImageClassify\ImageClassify\bin\Debug\ImageClassify.exe
+C:\Documents and Settings\13ru\My Documents\Visual Studio 2008\Projects\ImageClassify\ImageClassify\bin\Debug\ImageClassify.pdb
+C:\Documents and Settings\13ru\My Documents\Visual Studio 2008\Projects\ImageClassify\ImageClassify\obj\Debug\ImageClassify.exe
+C:\Documents and Settings\13ru\My Documents\Visual Studio 2008\Projects\ImageClassify\ImageClassify\obj\Debug\ImageClassify.pdb
+C:\Documents and Settings\13ru\My Documents\Visual Studio 2008\Projects\ImageClassify\ImageClassify\obj\Debug\ImageClassify.Image_label.resources
